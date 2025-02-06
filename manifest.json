@@ -1,0 +1,10 @@
+{
+  "id": "external-pdf-double-click-plugin",
+  "name": "External PDF Double Click Plugin",
+  "version": "0.1.0",
+  "minAppVersion": "0.12.0",
+  "description": "Opens PDF files with the external default app when double-clicked in the file explorer.",
+  "author": "Your Name",
+  "authorUrl": "https://yourwebsite.com",
+  "isDesktopOnly": true
+}
