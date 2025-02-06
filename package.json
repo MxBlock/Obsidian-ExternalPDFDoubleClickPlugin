@@ -1,0 +1,15 @@
+{
+  "name": "external-pdf-double-click-plugin",
+  "version": "0.1.0",
+  "description": "Opens PDF with external default app on double-click",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "dependencies": {
+    "obsidian": "latest"
+  }
+}
