@@ -1,6 +1,8 @@
 # Obsidian-DoubleClickToOpenDefaultApp
 
-Fully created with AI! I have no idea how to program JS for obsidian and needed this plugin.
+Fully created with AI! I have no idea how to program JS for obsidian and needed this plugin, so usw on own risk.
+
+To usw the Plugin either use the Installation guide below or create a new folder with the plugins name and Insert the main.js an manifest.json. Restart obsidian done (never tested this version).
 
 # Installation
 cd {your vault}/.obsidian/plugins
